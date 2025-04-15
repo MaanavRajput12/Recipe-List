@@ -1,29 +1,135 @@
 [
-    "Apple Pie",
-    "Banana Bread",
-    "Chocolate Chip Cookies",
-    "Dum Aloo",
-    "Egg Curry",
-    "Falafel Wrap",
-    "Garlic Naan",
-    "Hummus Platter",
-    "Ice Cream Sandwich",
-    "Jalapeño Poppers",
-    "Kheer",
-    "Lasagna",
-    "Mac and Cheese",
-    "Noodle Soup",
-    "Oreo Cheesecake",
-    "Pav Bhaji",
-    "Quinoa Salad",
-    "Ramen Bowl",
-    "Samosa",
-    "Tandoori Chicken",
-    "Uttapam",
-    "Vegetable Biryani",
-    "Waffles",
-    "Xacuti",
-    "Yogurt Parfait",
-    "Zucchini Fritters"
-  ]
-  
+  {
+    "name": "Apple Pie",
+    "description": "A sweet pie filled with spiced apples.",
+    "fullRecipe": {
+      "ingredients": [
+        "2½ cups all-purpose flour",
+        "1 tsp salt",
+        "1 tbsp sugar",
+        "1 cup unsalted butter, cold and cubed",
+        "6–8 tbsp ice water",
+        "6–7 cups sliced tart apples",
+        "¾ cup white sugar",
+        "¼ cup brown sugar",
+        "1½ tsp cinnamon",
+        "¼ tsp nutmeg",
+        "¼ tsp salt",
+        "2 tbsp flour",
+        "1 tbsp lemon juice",
+        "1 tbsp butter for dotting"
+      ],
+      "steps": [
+        "Mix flour, salt, sugar. Cut in butter till crumbly. Add water, form dough, chill 1 hr.",
+        "Mix apples with sugars, spices, flour, lemon juice.",
+        "Place dough in pie dish, fill with apples, dot with butter.",
+        "Cover with crust, seal, cut slits.",
+        "Bake at 425°F for 20 mins, then 375°F for 35–40 mins."
+      ]
+    }
+  },
+  {
+    "name": "Samosa",
+    "description": "A fried or baked pastry with a savory filling.",
+    "fullRecipe": {
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "4 tbsp oil",
+        "Salt to taste",
+        "Water as needed",
+        "3 potatoes, boiled & mashed",
+        "½ cup peas",
+        "1 tsp cumin seeds",
+        "1 tsp garam masala",
+        "1 tsp coriander powder",
+        "1 tsp chili powder",
+        "1 tsp ginger paste",
+        "Salt to taste",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Mix flour, oil, salt, and water to form dough. Rest 30 mins.",
+        "Heat oil, add cumin, ginger, peas, spices, mashed potatoes. Cool filling.",
+        "Roll dough, cut into halves, form cone, fill, and seal.",
+        "Deep fry till golden and crisp."
+      ]
+    }
+  },
+  {
+    "name": "Pasta Alfredo",
+    "description": "Creamy pasta dish with garlic and parmesan.",
+    "fullRecipe": {
+      "ingredients": [
+        "250g fettuccine or pasta of choice",
+        "2 tbsp butter",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "½ cup grated parmesan cheese",
+        "Salt and pepper to taste",
+        "Chopped parsley (optional)"
+      ],
+      "steps": [
+        "Cook pasta and set aside.",
+        "In a pan, melt butter, sauté garlic until fragrant.",
+        "Add cream, simmer, stir in parmesan.",
+        "Add pasta, toss to coat. Season with salt and pepper.",
+        "Garnish with parsley and serve hot."
+      ]
+    }
+  },
+  {
+    "name": "Dal Tadka",
+    "description": "Lentils cooked with spices and tempered with ghee.",
+    "fullRecipe": {
+      "ingredients": [
+        "1 cup toor dal (pigeon peas)",
+        "2½ cups water",
+        "1 onion, chopped",
+        "1 tomato, chopped",
+        "2 green chilies, slit",
+        "1 tsp turmeric",
+        "Salt to taste",
+        "2 tbsp ghee or oil",
+        "1 tsp cumin seeds",
+        "2 cloves garlic, chopped",
+        "1 tsp mustard seeds",
+        "A pinch of asafoetida (hing)",
+        "Fresh coriander leaves"
+      ],
+      "steps": [
+        "Pressure cook dal with water, turmeric, salt till soft.",
+        "In another pan, heat ghee, add cumin, mustard, garlic, hing.",
+        "Add onions, tomatoes, green chili, cook till soft.",
+        "Add cooked dal, simmer 5–10 mins.",
+        "Garnish with coriander and serve with rice or roti."
+      ]
+    }
+  },
+  {
+    "name": "Chocolate Cake",
+    "description": "Rich and moist chocolate layered cake.",
+    "fullRecipe": {
+      "ingredients": [
+        "1¾ cups all-purpose flour",
+        "¾ cup unsweetened cocoa powder",
+        "2 cups sugar",
+        "1½ tsp baking powder",
+        "1½ tsp baking soda",
+        "½ tsp salt",
+        "2 eggs",
+        "1 cup milk",
+        "½ cup vegetable oil",
+        "2 tsp vanilla extract",
+        "1 cup boiling water"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C). Grease and flour cake pans.",
+        "Mix dry ingredients. Add eggs, milk, oil, vanilla. Beat well.",
+        "Stir in boiling water (batter will be thin).",
+        "Pour into pans and bake 30–35 mins.",
+        "Cool and frost as desired."
+      ]
+    }
+  }
+]
+
